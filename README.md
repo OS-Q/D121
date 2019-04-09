@@ -1,7 +1,7 @@
-﻿# [Arachn 简介](https://github.com/arachn) 
+﻿# [Arachn e](https://github.com/arachn) 
 ####  qitas@qitas.cn 
 ####  www.arachn.com
-## [简介](https://github.com/OS-Q/arachn/Arachne/wiki) 
+## [简介](https://github.com/arachn/arachne/wiki) 
 
 Arachn英文释义是蜘蛛，是项目核心设备的形貌抽象，Arachn名称源自西方神话人物阿拉克涅[Arachne](https://en.wikipedia.org/wiki/Arachne) ，本身带有发人深省的人物故事，通过这个名称来定义，代表了本领高强足以对人类智慧发起挑战，也是自信挑战传承前年的农业文化，同时也是对自然之神威的敬畏。
 
@@ -12,7 +12,7 @@ Arachn英文释义是蜘蛛，是项目核心设备的形貌抽象，Arachn名�
 - [cobweb 蛛网](https://github.com/arachn/cobweb) 
 
 
-### 初步定义业务范围：
+### 初步定义功能范围：
 
 - 1、环境测量，包括地理环境和生态环境，可以通过设备检查水土状况，全面无死角的光学和探针测试，这个设备是地面行进设备，通过轮式设备工作
 - 2、土壤管理，通过局部的土地平整可以进行区域环境搭建，包括区域的堆肥和除菌，同时可以确认土地的休耕等时间参数，可以均匀喷施和物理除草
@@ -24,4 +24,6 @@ Arachn英文释义是蜘蛛，是项目核心设备的形貌抽象，Arachn名�
 - 8、标记产品，通过在果实生长期进行标记确保品牌化，主要的手段包括激光打标和模具，实现模具的方式就是在挂上模具后再雕刻二维码或则商标
 - 9、采摘分类，通过识别果实和长期维护的数据，确定最佳的采摘时间，包括订单信息的确认，通过在最佳时间采摘保证果实的品质和连续价值输出
 
-####  [精耕细织 Arachn](https://github.com/OS-Q/arachn/Arachne)
+####  [智慧基础 TFZoo](https://github.com/tfzoo/repomap)
+####  [精耕细织 Arachn](https://github.com/arachn/arachne)
+####  [简赋生活litelife](https://github.com/lite-life/manor)
