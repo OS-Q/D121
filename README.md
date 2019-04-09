@@ -2,7 +2,13 @@
 ####  © qitas@qitas.cn
 ## [简介](https://github.com/OS-Q/arachn/Arachne/wiki) 
 
-Arachn源自西方神话人物阿拉克涅[Arachne](https://en.wikipedia.org/wiki/Arachne) ，本身带有发人深省的人物故事，通过这个名称来定义，代表了本领高强足以对人类智慧发起挑战，也是自信挑战传承前年的农业文化，同时也是对自然之神威的敬畏。
+Arachn英文释义是蜘蛛，是项目核心设备的形貌抽象，Arachn名称源自西方神话人物阿拉克涅[Arachne](https://en.wikipedia.org/wiki/Arachne) ，本身带有发人深省的人物故事，通过这个名称来定义，代表了本领高强足以对人类智慧发起挑战，也是自信挑战传承前年的农业文化，同时也是对自然之神威的敬畏。
+
+
+项目核心硬件组成：
+
+- [arachnid 蛛体](https://github.com/arachn/arachnid) 
+- [cobweb 蛛网](https://github.com/arachn/cobweb) 
 
 
 初步定义业务范围：
